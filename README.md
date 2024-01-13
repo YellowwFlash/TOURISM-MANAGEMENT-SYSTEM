@@ -14,6 +14,7 @@ Features:
 Tech Stack:
  . Java
  . Fundamental SQL
+ . phpMyAdmin
 
 Current Status:
  . Under development
